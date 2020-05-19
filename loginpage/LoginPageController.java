@@ -149,6 +149,7 @@ public class LoginPageController implements Initializable {
                     }
                     catch(Exception e){
                     }
+                    e.printStackTrace();
                 }
                 
                 else 
